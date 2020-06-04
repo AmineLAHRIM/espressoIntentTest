@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">espressoIntentTest</string>
+    <string name="authority" translatable="false">com.am1ne.espressointenttest.fileProvider</string>
+</resources>
